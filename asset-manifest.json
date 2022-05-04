@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/detect-season/static/css/main.e75552ea.css",
+    "main.js": "/detect-season/static/js/main.549df4c0.js",
+    "index.html": "/detect-season/index.html",
+    "main.e75552ea.css.map": "/detect-season/static/css/main.e75552ea.css.map",
+    "main.549df4c0.js.map": "/detect-season/static/js/main.549df4c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75552ea.css",
+    "static/js/main.549df4c0.js"
+  ]
+}
